@@ -13,9 +13,11 @@ const ProductList = () => {
     };
 
   const products = [
-    { id: 1, name: 'Product A', price: 60 },
-    { id: 2, name: 'Product B', price: 75 },
-    { id: 3, name: 'Product C', price: 30 },
+    { id: 1, name: 'Zombie Costume', price: 60 },
+    { id: 2, name: 'Skeleton Costume', price: 75 },
+    { id: 3, name: 'Zombie-Skeleton Costume', price: 80 },
+    { id: 4, name: 'Skeletorch Costume', price: 90 },
+    { id: 5, name: 'Zomb-Fire Costume', price: 90 },
   ];
 
   return (
